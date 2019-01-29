@@ -1,0 +1,2 @@
+﻿  main.cpp
+c:\sdl2\include\sdl_stdinc.h(50): fatal error C1083: Nie można otworzyć pliku dołącz: 'stddef.h': No such file or directory
